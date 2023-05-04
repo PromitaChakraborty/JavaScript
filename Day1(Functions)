@@ -1,0 +1,14 @@
+function factorial(n){
+  var ans=1;
+  for(var i=1;i<=n;i++){
+    ans=ans*i;
+
+  }
+  return ans;
+}
+
+function main() {
+    const n = +(readLine());
+    
+    console.log(factorial(n));
+}
