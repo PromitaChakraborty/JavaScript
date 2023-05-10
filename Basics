@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<script type="text/javascript">
+
+		</script>
+
+		<script type="text/javascript" src="custom.js"></script>
+	</head>
+
+	<body>
+		<h1>Hello World</h1>
+
+		<noscript>JS not supported</noscript>
+	</body>
+</html>
+
+"use strict";
+
+// Addition
+console.log(4 + 8);
+
+// Subtraction 
+console.log(4 - 8);
+
+// Multiplication 
+console.log(4 * 8);
+
+// Division 
+console.log(4 / 8);
+
+// Modulus 
+console.log(7 % 3);
+
+let num = 10;
+
+console.log(num);
+
+// Increment 
+num++; // num = num + 1
+
+console.log(num);
+
+let num2 = 10;
+
+console.log(num2);
+
+// Decrement 
+num2--; // num2 = num2 - 1
+
+console.log(num2);
+
+
+let num3 = 10;
+
+console.log(num3);
+
+console.log(--num3);
+
+console.log(num3);
